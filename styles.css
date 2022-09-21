@@ -254,3 +254,24 @@ hr {
     color: #3b82f6;
     font-size: 30px;
 }
+
+/* quote in project page  */
+
+.quote {
+    padding: 2rem;
+    padding-top: 6rem;
+    text-align: center;
+}
+
+
+.quote .quote-heading {
+    text-align: center;
+    padding-top: 2rem;
+    font-size: large;
+    display: block;
+    font-weight: bolder;
+}
+
+.quote p a {
+    font-size: medium;
+}
